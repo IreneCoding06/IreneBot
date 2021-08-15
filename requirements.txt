@@ -1,7 +1,0 @@
-discord.py=3.9.2
-asyncio.py=3.9.2
-datetime.py=3.9.2
-pytz.py=3.9.2
-json.py=3.9.2
-random.py=3.9.2
-string.py=3.9.2
